@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+.Profile {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+footer a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section {
+  padding-top: 5rem;
+}
